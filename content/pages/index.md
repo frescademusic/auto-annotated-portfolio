@@ -9,7 +9,7 @@ sections:
     title: Muntasir Mahmud
     subtitle: >-
       Known as FRESCADE, believes in supremacy of music can make the world
-      better
+      better.
     styles:
       self:
         height: auto
