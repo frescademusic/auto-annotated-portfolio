@@ -32,13 +32,6 @@
             "self": {
                 "width": "full"
             }
-        },
-        "logo": {
-            "type": "ImageBlock",
-            "url": "/images/FRESCADE-non-transparent.png",
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": ""
         }
     },
     "footer": {
