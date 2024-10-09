@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'FRESCADE, Arieliza - 16 (Official Music Video/Visualizer)'
 date: '2024-04-21'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
