@@ -14,7 +14,7 @@ featuredImage:
   elementId: ''
 media:
   type: VideoBlock
-  title: Title of the video
+  title: ''
   url: 'https://www.youtube.com/watch?v=NcZqjM4h6C0'
   elementId: ''
   autoplay: false
