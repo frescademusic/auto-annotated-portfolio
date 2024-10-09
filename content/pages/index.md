@@ -55,8 +55,7 @@ sections:
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
-    projects:
-      - content/pages/projects/fsfsf.md
+    projects: []
     styles:
       self:
         height: auto
