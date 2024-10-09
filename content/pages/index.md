@@ -7,7 +7,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Muntasir Mahmud
-    subtitle: 'Known as FRESCADE, believes in music'
+    subtitle: >-
+      Also known as FRESCADE, he believes that the supremacy of music can make
+      the world better
     styles:
       self:
         height: auto
