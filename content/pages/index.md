@@ -5,7 +5,7 @@ colors: colors-a
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: Muntasir Mahmud
     subtitle: >-
       Also known as FRESCADE, he believes that the supremacy of music can make
