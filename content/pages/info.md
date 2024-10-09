@@ -144,7 +144,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      frescademusic\@gmail.com
   - type: DividerSection
     styles:
       self:
