@@ -7,7 +7,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Muntasir Mahmud
-    subtitle: Known as FRESCADE
+    subtitle: 'Known as FRESCADE, believes in music'
     styles:
       self:
         height: auto
