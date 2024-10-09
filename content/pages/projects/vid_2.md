@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'FRESCADE - When Time Decays (feat. Robert Crowell) [Official Lyric Video]'
 date: '2023-08-12'
 client: ''
-description: An emotional dark melodic bass music by FRESCADE.
+description: An emotional dark melodic bass song by FRESCADE.
 addTitleSuffix: true
 colors: colors-a
 featuredImage:
