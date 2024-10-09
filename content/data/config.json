@@ -37,6 +37,14 @@
                 "label": "Twitter",
                 "url": "https://x.com/FrescadeMusic",
                 "icon": "twitter"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.youtube.com/@frescademusic",
+                "icon": "youtube",
+                "elementId": ""
             }
         ],
         "styles": {
