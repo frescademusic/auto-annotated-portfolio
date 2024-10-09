@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: VideoBlock
   title: ''
-  url: 'https://youtu.be/BD-YliszGkA'
+  url: 'https://www.youtube.com/watch?v=R5NRqWSD0oA'
   elementId: ''
   autoplay: false
   loop: false
