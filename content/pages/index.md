@@ -57,6 +57,7 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/vid_1.md
+      - content/pages/projects/vid_2.md
     styles:
       self:
         height: auto
