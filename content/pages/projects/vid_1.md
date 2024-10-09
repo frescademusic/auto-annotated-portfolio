@@ -6,13 +6,6 @@ client: ''
 description: An energetic and emotional melodic bass remix by FRESCADE.
 addTitleSuffix: true
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 featuredImage:
   type: ImageBlock
   url: /images/Picsart_23-02-18_00-02-29-889.png
