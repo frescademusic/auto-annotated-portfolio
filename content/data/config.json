@@ -1,18 +1,13 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/FRESCADE-non-transparent.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "FRESCADE",
         "isTitleVisible": true,
         "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
             {
                 "type": "Link",
                 "label": "Projects",
@@ -20,8 +15,8 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "Info",
+                "url": "/info"
             }
         ],
         "socialLinks": [
@@ -37,6 +32,12 @@
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": ""
         }
     },
     "footer": {
