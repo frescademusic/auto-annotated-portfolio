@@ -17,7 +17,7 @@ media:
   title: ''
   url: 'https://www.youtube.com/watch?v=R5NRqWSD0oA'
   elementId: ''
-  autoplay: false
+  autoplay: true
   loop: false
   muted: false
   controls: true
