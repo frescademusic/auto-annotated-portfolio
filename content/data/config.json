@@ -25,18 +25,18 @@
             },
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "/twitter.com/FrescadeMusic",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "label": "Instagram",
                 "altText": "Instagram",
                 "url": "https://www.instagram.com/frescademusic/",
                 "icon": "instagram",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "/twitter.com/FrescadeMusic",
+                "icon": "twitter"
             }
         ],
         "styles": {
