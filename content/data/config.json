@@ -10,7 +10,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "About",
                 "url": "/info"
             }
         ],
@@ -40,8 +40,8 @@
             },
             {
                 "type": "Social",
-                "label": "Facebook",
-                "altText": "",
+                "label": "YouTube",
+                "altText": "YouTube",
                 "url": "https://www.youtube.com/@frescademusic",
                 "icon": "youtube",
                 "elementId": ""
@@ -71,27 +71,21 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
+                "url": "mailto:frescademusic@gmail.com",
+                "altText": "Contact"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "phoneNumber": "",
+            "phoneAltText": "",
+            "email": "frescademusic@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "address": "",
+            "addressAltText": ""
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
