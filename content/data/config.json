@@ -41,7 +41,7 @@
             {
                 "type": "Social",
                 "label": "YouTube",
-                "altText": "",
+                "altText": "YouTube",
                 "url": "https://www.youtube.com/@frescademusic",
                 "icon": "youtube",
                 "elementId": ""
