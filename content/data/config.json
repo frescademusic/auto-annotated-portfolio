@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/FRESCADE-non-transparent.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
