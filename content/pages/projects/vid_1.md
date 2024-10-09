@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Alexander Stewart - Blame's On Me (FRESCADE Remix)
 date: '2024-10-09'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: A energetic and emotional melodic bass remix by FRESCADE.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
