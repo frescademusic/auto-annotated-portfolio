@@ -33,7 +33,7 @@
             {
                 "type": "Social",
                 "label": "Instagram",
-                "altText": "",
+                "altText": "Instagram",
                 "url": "https://www.instagram.com/frescademusic/",
                 "icon": "instagram",
                 "elementId": ""
