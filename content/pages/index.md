@@ -42,7 +42,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/PXL_20230922_021115792.jpg
+      url: /images/IMG_5476-01~2.jpeg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
