@@ -17,18 +17,18 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "label": "Facebook",
                 "altText": "",
                 "url": "/facebook.com/frescademusic",
                 "icon": "facebook",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "https://twitter.com/netlify",
+                "icon": "twitter"
             }
         ],
         "styles": {
