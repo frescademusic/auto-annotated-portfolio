@@ -154,4 +154,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+  url: /images/neon-blue-aesthetic-midnight-sky-x15hb8hck7zwvqwt.jpg
 ---
