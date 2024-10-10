@@ -150,7 +150,6 @@ sections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/YouTube-thumbnail.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
