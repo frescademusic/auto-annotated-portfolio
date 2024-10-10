@@ -33,7 +33,7 @@ sections:
     type: HeroSection
     media:
       type: ImageBlock
-      url: /images/IMG_3189.JPG
+      url: /images/IMG_5476-01~2.jpeg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
