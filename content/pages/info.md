@@ -115,4 +115,11 @@ sections:
         textAlign: left
       text:
         textAlign: left
+backgroundImage:
+  type: BackgroundImage
+  url: /images/matt-wang-IKbpXrInCJY-unsplash.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
