@@ -2,13 +2,6 @@
 type: PageLayout
 title: About
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg4.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
 sections:
   - elementId: ''
     colors: colors-f
@@ -44,24 +37,6 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      frescademusic\@gmail.com
   - type: DividerSection
     styles:
       self:
