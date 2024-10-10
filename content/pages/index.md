@@ -49,7 +49,8 @@ sections:
     actions:
       - type: Link
         label: See all projects
-        url: 'https://www.youtube.com/@frescademusic'
+        url: 'https://www.youtube.com/@frescademusic/videos'
+        altText: See all projects
     showDate: false
     showDescription: true
     showFeaturedImage: true
