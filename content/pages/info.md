@@ -49,12 +49,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      frescademusic\@gmail.com
   - type: DividerSection
     styles:
       self:
