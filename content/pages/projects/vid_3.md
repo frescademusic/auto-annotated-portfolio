@@ -21,7 +21,7 @@ backgroundImage:
   opacity: 100
 media:
   type: VideoBlock
-  title: Title of the video
+  title: 'FRESCADE, Arieliza - 16 (Official Music Video/Visualizer)'
   url: 'https://www.youtube.com/watch?v=FIQuQlx5mCE'
   elementId: ''
   autoplay: false
