@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: FRESCADE । Official website
 colors: colors-a
 sections:
   - elementId: ''
