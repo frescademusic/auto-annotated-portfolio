@@ -45,7 +45,7 @@ sections:
     type: HeroSection
     media:
       type: ImageBlock
-      url: /images/1000001637.jpg
+      url: /images/PXL_20230922_021115792.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
