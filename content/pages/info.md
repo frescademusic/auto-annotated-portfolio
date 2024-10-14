@@ -6,7 +6,19 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: "Muntasir Mahmud, known as\_[FRESCADE](https://open.spotify.com/artist/5YfpwNujtLaNAzONsvcO9G)\_is a Bangladeshi Electronic Dance Music producer.\n\nSince 2019, he's been crafting tunes from the depths of his heart, expressing untold sadness and emotions through his music.\n\nIn 2022, he released his first single \"Low Spirits,\" a track that resonated deeply with listeners. But even before that,\_[FRESCADE](https://open.spotify.com/artist/5YfpwNujtLaNAzONsvcO9G)\_had garnered attention with several remixes.\n\nHis goal is to connect with fans who can relate to his songs, especially those struggling with loneliness, depression, or tough times. Through his heartfelt melodies, he seeks to offer solace and a sense of companionship, just like music has been to him in times of loneliness.\n\nFor\_[FRESCADE](https://open.spotify.com/artist/5YfpwNujtLaNAzONsvcO9G)\_music is more than beats. It's a language to express his deepest feelings. He pours his heart into every piece, making music that speaks to the soul.\n"
+    text: >
+      I have had a deep passion for music since childhood. In 2019, I saw Alan
+      Walker making music with a computer and found it interesting, which led me
+      to begin learning music on my own.
+
+
+      I independently released my first single as my stage name FRESCADE, 'Low
+      Spirits,' in July 2022. Before the release of 'Low Spirits,' I released
+      some unofficial remixes on my YouTube and SoundCloud channels. In August
+      2023, I released another single, "When Time Decays," featuring Robert
+      Crowell. I prioritize quality over quantity in my work, and my music
+      reflects life. While my main genre is Future Bass, I enjoy exploring
+      dubstep and trap music.
     styles:
       self:
         height: auto
@@ -33,7 +45,7 @@ sections:
     type: HeroSection
     media:
       type: ImageBlock
-      url: /images/IMG_5476-01~2.jpeg
+      url: /images/PXL_20230922_021115792.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
