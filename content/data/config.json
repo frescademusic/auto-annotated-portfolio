@@ -56,7 +56,8 @@
             "type": "ImageBlock",
             "altText": "altText of the image",
             "caption": "Caption of the image",
-            "elementId": ""
+            "elementId": "",
+            "url": "/images/FRESCADE-non-transparent.png"
         }
     },
     "footer": {
